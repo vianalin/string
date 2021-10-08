@@ -1,2 +1,0 @@
-int mystrlen(char *s);
-
